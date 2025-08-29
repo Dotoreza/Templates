@@ -1,5 +1,5 @@
 # Templates
-These files are templates for:
+These files are OpenOffice templates for:
 - A HIPAA Security Risk Analysis that meets the requirements of 45 CFR § 164.308(a)(1)(ii)(A)
 - A HIPAA Security Rule Gap Assessment, that maps current state to the requirements of the Security Rule
 - A Corrective Action Plan, to address the findings from the above two.
